@@ -64,6 +64,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 break;
             }
             case R.id.btnEditText:{
+                Intent intent = new Intent(getBaseContext(),EditTextDemoActivity.class);
+                startActivity(intent);
                 break;
             }
             case R.id.btnImageView:{
