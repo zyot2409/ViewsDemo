@@ -14,25 +14,53 @@
         android:orientation="horizontal">
 
         <EditText
-            android:imeOptions="actionDone"
-            android:inputType="textPassword"
-            android:id="@+id/etInput"
+            android:id="@+id/etInput1"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_marginRight="5dp"
-            android:layout_weight="1" >
-            <requestFocus />
-        </EditText>
+            android:layout_weight="1"
+            android:hint="password"
+            android:inputType="textPassword"/>
 
         <TextView
-            android:textSize="25dp"
-            android:id="@+id/tvInput"
+            android:id="@+id/tvInput1"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_marginLeft="5dp"
-            android:layout_weight="1" />
+            android:layout_weight="1"
+            android:text="No Input"
+            android:textSize="25dp" />
     </LinearLayout>
 
+    <LinearLayout
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <EditText
+            android:imeOptions="actionDone"
+            android:id="@+id/etInput2"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="5dp"
+            android:layout_weight="1"
+            android:hint="phone number"
+            android:digits="123456789"
+            android:maxLength="10"
+            android:inputType="phone">
+            <requestFocus/>
+        </EditText>
+
+        <TextView
+            android:id="@+id/tvInput2"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_weight="1"
+            android:text="No Input"
+            android:textSize="25dp" />
+    </LinearLayout>
 
 
 </LinearLayout>

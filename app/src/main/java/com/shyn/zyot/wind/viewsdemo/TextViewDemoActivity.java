@@ -11,6 +11,8 @@ public class TextViewDemoActivity extends AppCompatActivity {
 
     private TextView tvTruncate;
     private TextView tvUsingHTML;
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -37,5 +39,6 @@ public class TextViewDemoActivity extends AppCompatActivity {
         } else {
             tvUsingHTML.setText(Html.fromHtml(formattedText));
         }
+
     }
 }
