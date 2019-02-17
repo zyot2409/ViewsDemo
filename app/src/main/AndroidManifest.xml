@@ -35,6 +35,15 @@
             android:name=".CheckBoxDemoActivity"
             android:label="Check Box Demo"
             android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".RadioButtonDemoActivity"
+            android:label="Radio Button Demo"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".ToggleButtonDemoActivity"
+            android:label="Toggle Button Demo"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/Theme.App.Base" />
     </application>
 
 </manifest>

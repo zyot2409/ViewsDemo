@@ -79,9 +79,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 break;
             }
             case R.id.btnRadioButton:{
+                Intent intent = new Intent(getBaseContext(),RadioButtonDemoActivity.class);
+                startActivity(intent);
                 break;
             }
             case R.id.btnToggleButton:{
+                Intent intent = new Intent(getBaseContext(),ToggleButtonDemoActivity.class);
+                startActivity(intent);
                 break;
             }
             case R.id.btnButton:{

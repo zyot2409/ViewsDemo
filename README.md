@@ -21,8 +21,21 @@ https://guides.codepath.com/android/Working-with-the-ImageView
 https://developer.android.com/reference/android/widget/ImageView
 
 ##Input Views
+
 https://guides.codepath.com/android/Working-with-Input-Views#checkboxes
 
 ### o) Check Box
+
 https://developer.android.com/reference/android/widget/CheckBox
 https://www.tutorialspoint.com/android/android_checkbox_control.htm
+
+### o) Radio Button
+
+https://developer.android.com/guide/topics/ui/controls/radiobutton
+https://www.tutorialspoint.com/android/android_radiobutton_control.htm
+
+
+### o) Toggle Button
+
+https://developer.android.com/reference/android/widget/ToggleButton
+https://www.tutorialspoint.com/android/android_togglebutton_control.htm
