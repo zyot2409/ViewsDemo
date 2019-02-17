@@ -16,6 +16,7 @@
         android:src="@mipmap/ic_launcher_round" />
 
     <ImageView
+        android:tint="@color/colorPrimary"
         android:scaleType="fitXY"
         android:id="@+id/imvSetImage"
         android:layout_width="match_parent"

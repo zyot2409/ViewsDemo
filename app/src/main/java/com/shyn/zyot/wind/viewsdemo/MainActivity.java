@@ -74,6 +74,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 break;
             }
             case R.id.btnCheckBox:{
+                Intent intent = new Intent(getBaseContext(),CheckBoxDemoActivity.class);
+                startActivity(intent);
                 break;
             }
             case R.id.btnRadioButton:{

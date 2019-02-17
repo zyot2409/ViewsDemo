@@ -27,9 +27,14 @@
             android:label="Edit Text Demo"
             android:parentActivityName=".MainActivity"
             android:theme="@style/Theme.App.Base" />
-        <activity android:name=".ImageViewDemoActivity"
-            android:parentActivityName=".MainActivity"
-            android:label="Image View Demo"/>
+        <activity
+            android:name=".ImageViewDemoActivity"
+            android:label="Image View Demo"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".CheckBoxDemoActivity"
+            android:label="Check Box Demo"
+            android:parentActivityName=".MainActivity" />
     </application>
 
 </manifest>
