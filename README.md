@@ -19,3 +19,10 @@ https://developer.android.com/reference/android/widget/EditText
 
 https://guides.codepath.com/android/Working-with-the-ImageView
 https://developer.android.com/reference/android/widget/ImageView
+
+##Input Views
+https://guides.codepath.com/android/Working-with-Input-Views#checkboxes
+
+### o) Check Box
+https://developer.android.com/reference/android/widget/CheckBox
+https://www.tutorialspoint.com/android/android_checkbox_control.htm
