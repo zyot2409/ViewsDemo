@@ -34,6 +34,10 @@ https://www.tutorialspoint.com/android/android_checkbox_control.htm
 https://developer.android.com/guide/topics/ui/controls/radiobutton
 https://www.tutorialspoint.com/android/android_radiobutton_control.htm
 
+### o) Switch
+
+https://developer.android.com/reference/android/widget/Switch
+
 
 ### o) Toggle Button
 

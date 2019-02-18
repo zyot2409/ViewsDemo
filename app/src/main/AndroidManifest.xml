@@ -44,6 +44,10 @@
             android:label="Toggle Button Demo"
             android:parentActivityName=".MainActivity"
             android:theme="@style/Theme.App.Base" />
+        <activity
+            android:name=".SwitchDemoActivity"
+            android:label="Switch Demo"
+            android:parentActivityName=".MainActivity" />
     </application>
 
 </manifest>

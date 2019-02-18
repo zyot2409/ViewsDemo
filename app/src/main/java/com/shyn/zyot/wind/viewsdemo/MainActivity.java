@@ -92,6 +92,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 break;
             }
             case R.id.btnSwitch:{
+                Intent intent = new Intent(getBaseContext(),SwitchDemoActivity.class);
+                startActivity(intent);
                 break;
             }
             case R.id.btnImageButton:{
