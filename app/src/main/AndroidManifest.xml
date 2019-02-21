@@ -48,6 +48,10 @@
             android:name=".SwitchDemoActivity"
             android:label="Switch Demo"
             android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".ButtonDemoActivity"
+            android:label="Button Demo"
+            android:parentActivityName=".MainActivity" />
     </application>
 
 </manifest>
