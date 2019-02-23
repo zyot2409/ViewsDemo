@@ -43,3 +43,28 @@ https://developer.android.com/reference/android/widget/Switch
 
 https://developer.android.com/reference/android/widget/ToggleButton
 https://www.tutorialspoint.com/android/android_togglebutton_control.htm
+
+### o) Button
+
+https://developer.android.com/reference/android/widget/Button
+https://www.tutorialspoint.com/android/android_button_control.htm
+
+### o) Image Button
+
+https://developer.android.com/reference/android/widget/ImageButton
+https://www.tutorialspoint.com/android/android_imagebutton_control.htm
+
+### o) Seek Bar
+
+https://developer.android.com/reference/android/widget/SeekBar#xml-attributes
+
+### o) Rating Bar
+
+https://developer.android.com/reference/android/widget/RatingBar
+
+### o) Progress Bar
+
+https://developer.android.com/reference/android/widget/ProgressBar
+https://guides.codepath.com/android/handling-progressbars#result-based
+https://www.tutorialspoint.com/android/android_progressbar.htm
+

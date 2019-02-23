@@ -52,6 +52,22 @@
             android:name=".ButtonDemoActivity"
             android:label="Button Demo"
             android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".ImageButtonDemoActivity"
+            android:label="Image Button Demo"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".SeekBarDemoActivity"
+            android:label="Seek Bar Demo"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".RatingBarDemoActivity"
+            android:label="Rating Bar Demo"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".ProgressBarDemoActivity"
+            android:label="Progress Bar Demo"
+            android:parentActivityName=".MainActivity" />
     </application>
 
 </manifest>
